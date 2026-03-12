@@ -9,3 +9,4 @@ catboost_info/
 
 # Virtual environments
 .venv
+logs/
