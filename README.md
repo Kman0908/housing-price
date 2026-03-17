@@ -23,7 +23,7 @@ https://housing-price-8r8f.onrender.com/
 ```
 housing-price/
 ├── data/
-├── notebooks/
+├── notebook/
 ├── src/
 ├── README.md
 └── requirements-app.txt
